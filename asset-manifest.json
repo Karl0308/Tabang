@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/tabang/static/css/main.7afc0e9e.css",
-    "main.js": "/tabang/static/js/main.bd047fae.js",
+    "main.css": "/tabang/static/css/main.146b4619.css",
+    "main.js": "/tabang/static/js/main.99d3284c.js",
     "static/js/213.4f5f5354.chunk.js": "/tabang/static/js/213.4f5f5354.chunk.js",
     "static/js/455.cae3283a.chunk.js": "/tabang/static/js/455.cae3283a.chunk.js",
     "static/js/453.a3b6e5e2.chunk.js": "/tabang/static/js/453.a3b6e5e2.chunk.js",
@@ -13,14 +13,14 @@
     "static/media/copy-icon.svg": "/tabang/static/media/copy-icon.e88a7cef263f912a5d9b17540ba61e97.svg",
     "index.html": "/tabang/index.html",
     "static/media/icons8-menu.svg": "/tabang/static/media/icons8-menu.dcf794d1754cd2495e36dfbc68231724.svg",
-    "main.7afc0e9e.css.map": "/tabang/static/css/main.7afc0e9e.css.map",
-    "main.bd047fae.js.map": "/tabang/static/js/main.bd047fae.js.map",
+    "main.146b4619.css.map": "/tabang/static/css/main.146b4619.css.map",
+    "main.99d3284c.js.map": "/tabang/static/js/main.99d3284c.js.map",
     "213.4f5f5354.chunk.js.map": "/tabang/static/js/213.4f5f5354.chunk.js.map",
     "455.cae3283a.chunk.js.map": "/tabang/static/js/455.cae3283a.chunk.js.map",
     "453.a3b6e5e2.chunk.js.map": "/tabang/static/js/453.a3b6e5e2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7afc0e9e.css",
-    "static/js/main.bd047fae.js"
+    "static/css/main.146b4619.css",
+    "static/js/main.99d3284c.js"
   ]
 }
